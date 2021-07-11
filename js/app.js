@@ -29,20 +29,20 @@ function returnFirstOcc(arr1){
     }
 }
 
-//Function1 return arguments
-console.log("Function1");
+//Call function simpleMathOps 
+console.log("Question1");
 console.log(simpleMathOps(1,2));
 console.log(simpleMathOps(5,3));
 console.log(simpleMathOps(2,2));
 
-//Function2 return arguments
-console.log("Function2");
+//Call function checkStrLength
+console.log("Question2");
 console.log(checkStrLength("peanutbutternutella")); //over 10 chars
 console.log(checkStrLength("happy")); //5 chars
 console.log(checkStrLength("programmin")); //10 chars
 
-//Function3 return arguments
-console.log("Function3");
+//Call function returnFirstOcc
+console.log("Question3");
 console.log(returnFirstOcc("array1"));
 console.log(returnFirstOcc("array2"));
 console.log(returnFirstOcc("array3"));
